@@ -1,6 +1,5 @@
 <?php
 
-
 $countries = [
     'AF' => 'Afghanistan',
     'AL' => 'Albania',
